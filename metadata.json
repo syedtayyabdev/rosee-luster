@@ -1,0 +1,7 @@
+{
+  "name": "Rose - Your Luster Girlfriend",
+  "description": "An immersive AI chat experience with Rose, a 29-year-old passionate and emotionally expressive personality. Features romantic, teasing, and deeply personal interactions with high-fidelity voice note simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
